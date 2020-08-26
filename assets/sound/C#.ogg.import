@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/C#.ogg-cdbbf7232f05b7dd48613d0dd7ce8169.oggstr"
+
+[deps]
+
+source_file="res://assets/sound/C#.ogg"
+dest_files=[ "res://.import/C#.ogg-cdbbf7232f05b7dd48613d0dd7ce8169.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
